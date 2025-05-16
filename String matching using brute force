@@ -37,3 +37,8 @@ int main() {
 
     return 0;
 }
+
+output:
+Enter the text: manisharaj
+Enter the pattern to search: raj
+Pattern found at index 7
